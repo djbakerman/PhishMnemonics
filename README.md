@@ -34,6 +34,11 @@
 
 ## Example Output
 
+To run the script, execute the following command in your terminal:
+
+```bash
 python3 genMnemonic.py
+
 Here are 15 random words from Phish songs:
 highway hold good bayou jam trying dream art hyhu midnight bird ziggy free blue stardust
+```
